@@ -2,8 +2,8 @@
 An awesome tweak for X that enhances your experience with additional features and customization options. Get rid of ads, gain access to X Premium features for free and much much more!
 
 ## 📥 Downloads
-- [Normal and Trollstore](https://github.com/RiseBlox/BHX/releases/latest)
-- [Rootfull and Rootless](https://github.com/RiseBlox/BHX/releases/tag/v4.4_Tweaks)
+- [Normal and Trollstore](https://github.com/baterblx/BHX/releases/latest)
+- [Rootfull and Rootless](https://github.com/baterblx/BHX/releases/tag/v4.4_Tweaks)
 ## 🧩 Features
 *Please note that we heavily rely on feature flags. If a feature doesn't work anymore, it's beacuse X most likely removed support for it.*
 
